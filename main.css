@@ -1,0 +1,49 @@
+header{
+background: url(pauli2.jpg);
+background-size: cover;
+width: 100%;
+min-height: 600px;
+padding-top: 100px;
+color: white;
+}
+.img2{
+  width: 150px;
+  margin-top: 20px;
+}
+.img3{
+  width: 150px;
+  margin-top: 20px;
+}
+.img4{
+  width: 150px;
+  margin-top: 20px;  
+}
+
+footer {
+  padding-top: 10px;
+  text-align: left;
+}
+.container1 {
+  background-color:#d6fffe;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.container2 {
+  background-color: #8fe0df;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.container3 {
+  background-color: #40add1;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+ .iconos {
+    font-size: 170%;
+   }
